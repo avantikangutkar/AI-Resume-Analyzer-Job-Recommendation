@@ -1,0 +1,43 @@
+Category,Skill
+Programming,Python
+Programming,Java
+Programming,C
+Programming,C++
+Programming,JavaScript
+Programming,HTML
+Programming,CSS
+Programming,R
+Databases,SQL
+Databases,MySQL
+Databases,PostgreSQL
+Databases,MongoDB
+Data Science,Pandas
+Data Science,NumPy
+Data Science,Excel
+Data Science,Power BI
+Data Science,Matplotlib
+Data Science,Statistics
+Data Science,Data Analysis
+Machine Learning and AI,Machine Learning
+Machine Learning and AI,Deep Learning
+Machine Learning and AI,Scikit-learn
+Machine Learning and AI,TensorFlow
+Machine Learning and AI,PyTorch
+Machine Learning and AI,NLP
+Machine Learning and AI,LLM
+Machine Learning and AI,Transformers
+Machine Learning and AI,Hugging Face
+Machine Learning and AI,OpenCV
+Machine Learning and AI,CNN
+Web and Deployment,React
+Web and Deployment,Node.js
+Web and Deployment,Flask
+Web and Deployment,FastAPI
+Web and Deployment,REST API
+Web and Deployment,Docker
+Web and Deployment,Git
+Web and Deployment,GitHub
+Web and Deployment,AWS
+Web and Deployment,Azure
+Web and Deployment,Streamlit
+Web and Deployment,Linux
