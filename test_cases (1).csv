@@ -1,0 +1,8 @@
+Test_ID,Test_Case,Expected_Result,Actual_Result,Status
+TC01,Upload a valid PDF resume,Resume text is extracted and analyzed,To be verified,Pending
+TC02,Upload a valid DOCX resume,Resume text is extracted and analyzed,Successful,Pass
+TC03,Detect known technical skills,Skills present in the resume are identified,Successful,Pass
+TC04,Display top three job recommendations,Three ranked job roles are displayed,Successful,Pass
+TC05,Display skill gap analysis,Matched and missing skills are displayed,Successful,Pass
+TC06,Upload an unsupported TXT file,Upload is rejected,To be verified,Pending
+TC07,Upload a scanned PDF,No readable text message or appropriate error,To be verified,Pending

@@ -1,0 +1,7 @@
+Job_Role,Required_Skills,Number_of_Skills
+Data Analyst,"Python, SQL, Excel, Pandas, NumPy, Power BI",6
+Machine Learning Engineer,"Python, Machine Learning, Scikit-learn, Pandas, NumPy, FastAPI, Docker",7
+AI Engineer,"Python, Deep Learning, NLP, TensorFlow, PyTorch, APIs, LLM",7
+Web Developer,"HTML, CSS, JavaScript, React, Node.js, SQL, Git",7
+NLP Engineer,"Python, NLP, Transformers, Hugging Face, Machine Learning, PyTorch",6
+Computer Vision Engineer,"Python, OpenCV, CNN, Deep Learning, TensorFlow, PyTorch",6
